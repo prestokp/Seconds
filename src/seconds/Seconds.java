@@ -27,3 +27,5 @@ public class Seconds {
         System.out.println("Seconds: " + seconds);
     }
 }
+
+//Github Push Test
